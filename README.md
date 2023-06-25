@@ -18,13 +18,13 @@ To run this project, you need the following:
  - Computer with necessary drivers and software for FPGA development
 ## Usage
 To use this project, follow these steps:
- 1- Open the Xilinx ISE Design Suite and create a new project.
- 2- Add the project files to the project directory.
- 3- Modify the necessary parameters in the project files according to your requirements (e.g., key size, data inputs, clock frequency).
- 4- Configure the project settings, such as the target device (Spartan-6 FPGA) and constraints.
- 5- Run the synthesis and implementation process in Xilinx ISE to generate the programming file (.bit).
- 6- Load the generated programming file onto the Spartan-6 FPGA using the appropriate programming tools.
- 7- Connect the required input/output devices to the FPGA board.
- 8- Power on the FPGA board and observe the output of the RSA encryption algorithm.
+ - Open the Xilinx ISE Design Suite and create a new project.
+ - Add the project files to the project directory.
+ - Modify the necessary parameters in the project files according to your requirements (e.g., key size, data inputs, clock frequency).
+ - Configure the project settings, such as the target device (Spartan-6 FPGA) and constraints.
+ - Run the synthesis and implementation process in Xilinx ISE to generate the programming file (.bit).
+ - Load the generated programming file onto the Spartan-6 FPGA using the appropriate programming tools.
+ - Connect the required input/output devices to the FPGA board.
+ - Power on the FPGA board and observe the output of the RSA encryption algorithm.
 ## Acknowledgments
 This project was developed as part of [Mohamed Ayman]'s [NajahNow FPGA Course]. I would like to acknowledge the guidance and support provided by [Abdelrahman elshebinny].
